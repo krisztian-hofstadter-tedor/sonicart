@@ -1,0 +1,43 @@
+/* customized by khofstadter*/
+
+ul, li {
+  list-style: circle;
+  padding-left: 16px;
+  margin: 10px 0;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 35em;
+  padding: 0.5em 0.5em;
+  color: #566b78;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 200%;
+  margin-top: 0.5em;
+}
+
+h2 {
+    font-size: 130%;
+    margin-bottom: 0.2em;
+    color: #333;
+}
+
+h3 {
+    font-size: 105%;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    color: #333;
+}
+
+a {
+  color: #048ABF;
+  text-decoration: none;
+}
+/* lists */
+ul {
+  list-style: none;
+  margin-bottom: 0.5em;
+}

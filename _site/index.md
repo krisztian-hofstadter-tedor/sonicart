@@ -1,7 +1,3 @@
-<head>
-<link rel="stylesheet" href="css/style.css" />
-</head>
-
 # Title of the artwork
 ## Artist name / SID
 
