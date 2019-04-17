@@ -23,4 +23,4 @@ To measure progress, use the 'Level 6 ARU Generic Assessment Criteria and Markin
 ## logbook
 
 ## references
-[1] Please download both forms from [here](https://www.dropbox.com/sh/38rlkbdnx0v2lg3/AACmbnDKFzFj8m0SF2n4kk-Ua?dl=0). Full document of the 'Senate Code of Practice onThe Assessment of Students' can be found on [web.anglia.ac.uk](https://web.anglia.ac.uk/anet/academic/assess/index.phtml). The table above examples how the letter 'o' can be used to indicate the degree of progress. We will use this table in class for self and peer assessment regularly. 
+[1] Please download both forms from [here](https://www.dropbox.com/sh/38rlkbdnx0v2lg3/AACmbnDKFzFj8m0SF2n4kk-Ua?dl=0). Full document of the 'Senate Code of Practice onThe Assessment of Students' can be found on [web.anglia.ac.uk](https://web.anglia.ac.uk/anet/academic/assess/index.phtml). The table above examples how the letter 'o' can be used to indicate the degree of progress. We will use this table for self and peer assessment regularly. 
